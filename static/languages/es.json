@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuánta energía estamos consumiendo?",
+  "subtitle": "En 2024, el consumo medio de energía por ciudadano de la UE fue de 5,48 MWh.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Este mapa muestra la energía disponible para el consumo final. Las cifras se han calculado con los datos nrg_cb_e y demo_pjan de Eurostat.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "MWh por persona",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
