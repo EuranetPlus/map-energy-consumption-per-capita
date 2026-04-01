@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad fuinnimh atá á chaitheamh againn?",
+  "subtitle": "Ó 2024 i leith, is é 5.48 MWh an meántomhaltas fuinnimh in aghaidh gach saoránach den AE.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Léiríonn an léarscáil seo an fuinneamh atá ar fáil le haghaidh tomhaltais deiridh. Rinneadh na figiúirí a ríomh le sonraí nrg_cb_e agus demo_pjan ó Eurostat.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "MWh in aghaidh an duine",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
