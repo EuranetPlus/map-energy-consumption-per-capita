@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz enerģijas mēs patērējam?",
+  "subtitle": "Sākot ar 2024. gadu, vidējais enerģijas patēriņš uz vienu ES iedzīvotāju ir 5,48 MWh.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šajā kartē ir attēlota pieejamā enerģija galapatēriņam. Skaitļi ir aprēķināti, izmantojot Eurostat nrg_cb_e un demo_pjan datus.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "MWh uz vienu cilvēku",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
