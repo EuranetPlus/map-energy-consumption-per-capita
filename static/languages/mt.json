@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm qed nikkunsmaw enerġija?",
+  "subtitle": "Mill-2024, il-konsum medju tal-enerġija għal kull ċittadin tal-UE huwa ta' 5.48 MWh.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Din il-mappa tenfasizza l-enerġija disponibbli għall-konsum finali. Iċ-ċifri ġew ikkalkulati bid-dejta nrg_cb_e u demo_pjan mill-Eurostat.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "MWh għal kull persuna",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
