@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile energii zużywamy?",
+  "subtitle": "W 2024 r. średnie zużycie energii na jednego obywatela UE wynosiło 5,48 MWh.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Ta mapa przedstawia dostępną energię do zużycia końcowego. Dane zostały obliczone na podstawie danych nrg_cb_e i demo_pjan z Eurostatu.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "MWh na osobę",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
