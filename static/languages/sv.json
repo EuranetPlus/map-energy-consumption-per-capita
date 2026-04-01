@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket energi förbrukar vi?",
+  "subtitle": "Från och med 2024 är den genomsnittliga energiförbrukningen per EU-medborgare 5,48 MWh.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna karta visar tillgänglig energi för slutlig förbrukning. Siffrorna har beräknats med data från nrg_cb_e och demo_pjan från Eurostat.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "MWh per person",
   "tooltipExtraInfoLabel": "Klicka här"
 }
