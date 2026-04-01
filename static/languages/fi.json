@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon energiaa kulutamme?",
+  "subtitle": "Vuonna 2024 keskimääräinen energiankulutus EU:n kansalaista kohden oli 5,48 MWh.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tämä kartta korostaa loppukulutukseen käytettävissä olevaa energiaa. Luvut on laskettu Eurostatin nrg_cb_e- ja demo_pjan-datojen avulla.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "MWh henkilöä kohden",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
